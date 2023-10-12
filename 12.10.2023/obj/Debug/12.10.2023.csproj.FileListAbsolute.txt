@@ -1,0 +1,7 @@
+C:\Прога\05.10.2023\12.10.2023\bin\Debug\12.10.2023.exe.config
+C:\Прога\05.10.2023\12.10.2023\bin\Debug\12.10.2023.exe
+C:\Прога\05.10.2023\12.10.2023\bin\Debug\12.10.2023.pdb
+C:\Прога\05.10.2023\12.10.2023\obj\Debug\12.10.2023.csproj.AssemblyReference.cache
+C:\Прога\05.10.2023\12.10.2023\obj\Debug\12.10.2023.csproj.CoreCompileInputs.cache
+C:\Прога\05.10.2023\12.10.2023\obj\Debug\12.10.2023.exe
+C:\Прога\05.10.2023\12.10.2023\obj\Debug\12.10.2023.pdb

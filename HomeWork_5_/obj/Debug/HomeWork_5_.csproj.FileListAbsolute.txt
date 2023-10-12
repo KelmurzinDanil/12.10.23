@@ -1,0 +1,7 @@
+C:\Прога\05.10.2023\HomeWork_5_\bin\Debug\HomeWork_5_.exe.config
+C:\Прога\05.10.2023\HomeWork_5_\bin\Debug\HomeWork_5_.exe
+C:\Прога\05.10.2023\HomeWork_5_\bin\Debug\HomeWork_5_.pdb
+C:\Прога\05.10.2023\HomeWork_5_\obj\Debug\HomeWork_5_.csproj.AssemblyReference.cache
+C:\Прога\05.10.2023\HomeWork_5_\obj\Debug\HomeWork_5_.csproj.CoreCompileInputs.cache
+C:\Прога\05.10.2023\HomeWork_5_\obj\Debug\HomeWork_5_.exe
+C:\Прога\05.10.2023\HomeWork_5_\obj\Debug\HomeWork_5_.pdb
